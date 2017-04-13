@@ -6,12 +6,8 @@ import sys
 from datetime import datetime as timeGet
 
 
-"""
-
-TODO:
-    Identify Services
-    Pipe into easy to read output
-
+""" TODO:
+        - Pipe into easy to read output
 """
 
 serviceGuess = {
