@@ -1,4 +1,4 @@
-# pysan
+#git pull origin master pysan
 
 Python based scanner
 
@@ -19,7 +19,7 @@ python3
 Clone the Repository and cd into it
 
 ```
-git clone http://github.com/tealkine/pyscan.git && cd pyscan
+git clone http://github.com/f3rn0s/pyscan.git && cd pyscan
 ```
 
 Run scanner
@@ -36,7 +36,7 @@ Add better OS detection
 
 ## Authors
 
-* **Tealkine** - *Project Dev.* - [Tealkine](https://github.com/Tealkine)
+* **F3RN0S** - *Project Dev.* - [F3RN0S](https://github.com/f3rn0s)
 
-See also the list of [contributors](https://github.com/tealkine/MOTDsocket/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/f3rn0s/MOTDsocket/contributors) who participated in this project.
 
