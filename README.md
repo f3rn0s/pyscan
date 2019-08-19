@@ -6,7 +6,9 @@ Python based scanner
 
 ### Features
 
-Fast
+Slow
+Old
+Not maintained
 
 ### Prerequisites
 
